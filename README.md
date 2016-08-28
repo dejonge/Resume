@@ -33,16 +33,12 @@ Bachelor of Business Technology Management Program
 <ul>
   <li>Co-op option</li>
 </ul>
-<li>Rehoboth Christian School, Norwich, Ontario, 				2000 – 2013<br>
-Ontario Secondary School Diploma</li>
+<i>Rehoboth Christian School, Norwich, Ontario, 				2000 – 2013<br>
+Ontario Secondary School Diploma</i>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Ontario Scholar award: average of 80+ in University prep courses</li>
+  <li>Honour Student grade 9 – 12</li>
+  <li>RCS Fund, Total Rentals & Rick’s Carpet Scholarships</li>
 </ul></p1>
 
 <h1>Experience</h1>
