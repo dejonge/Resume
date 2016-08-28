@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <h1>Derrek de Jonge</h1><br>
