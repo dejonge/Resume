@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title><b>Derrek de Jonge</b></title>
+<b>Derrek de Jonge</b>
 <p1>Address</p1>
 <!--This is a comment necessary for the requirements of lab 8. Comments are not displayed in the browser-->
 </head>
